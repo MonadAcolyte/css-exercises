@@ -1,0 +1,14 @@
+.button-commons {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.button-commons.button1 {
+    background-color: mediumaquamarine;
+    color: darkblue;
+}
+
+.button-commons.button2 {
+    background-color: green;
+    color: white;
+}
